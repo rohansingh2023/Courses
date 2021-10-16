@@ -1,0 +1,226 @@
+{
+  "Header": {
+    "title": "Hi, I'm Deepesh",
+    "paragraph": "I'm a Full Stack Data Scientist, Machine Learning Engineer & Android Developer."
+  },
+  "About": {
+    "paragraph1": "I'am Deepesh - A Full Stack Data Scientist from Mumbai,India. From Analyzing Mountains of Data for Business Intelligence to Making world class AI systems,I like to follow a Data-Centric approach for every problem and aspire to write Clean-Code.",
+    "paragraph2": "One of my superpowers is 'curiosity',I enjoy programming and am highly curious about science, engineering and love studying their impact on our human society.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Object_Detection_YOLOV3",
+      "largeImage": "https://github.com/deepeshdm/Object_Detection_YOLOV3",
+      "smallImage": "https://github.com/deepeshdm/Object_Detection_YOLOV1/blob/main/imgs/pascalvoc.png?raw=true"
+    },
+    {
+      "title": "Cumulative_Counting_Object_Detection",
+      "largeImage": "https://github.com/deepeshdm/Cumulative_Counting_Object_Detection",
+      "smallImage": "img/portfolio/cumulative_object_detection_project.jpg"
+    },
+    {
+      "title": "DeepFake_Image_Animation",
+      "largeImage": "https://github.com/deepeshdm/DeepFake_Image_Animation",
+      "smallImage": "img/portfolio/deepfake_project.jpeg"
+    },
+    {
+      "title": "Generative_Adversarial_Network_Mnist",
+      "largeImage": "https://github.com/deepeshdm/Generative_Adversarial_Network_Mnist",
+      "smallImage": "img/portfolio/GAN project2.jpg"
+    },
+    {
+      "title": "Language_Translator_English-to-Marathi",
+      "largeImage": "https://github.com/deepeshdm/Language_Translator_English-to-Marathi",
+      "smallImage": "img/portfolio/Language Translator project2.png"
+    },
+    {
+      "title": "Audio_Classification_Urban8K",
+      "largeImage": "https://github.com/deepeshdm/Audio_Classification_Urban8K",
+      "smallImage": "http://pagrumiaux.fr/static/img/audiospectrum.jpg"
+    },
+    {
+      "title": "Sentiment_Analysis_IMDB_Dataset",
+      "largeImage": "https://github.com/deepeshdm/Sentiment_Analysis_IMDB_Dataset",
+      "smallImage": "https://cdn.shrm.org/image/upload/c_crop,h_705,w_1253,x_0,y_129/c_fit,f_auto,q_auto,w_767/v1/Technology/iStock-1065782440_lbxq1z?databtoa=eyIxNng5Ijp7IngiOjAsInkiOjEyOSwieDIiOjEyNTMsInkyIjo4MzQsInciOjEyNTMsImgiOjcwNX19"
+    },
+    {
+      "title": "Cats_Dogs_Image_Classifier_VGG16",
+      "largeImage": "https://github.com/deepeshdm/Cats_Dogs_Image_Classifier_VGG16",
+      "smallImage": "img/portfolio/cat dog classification.png"
+    },
+    {
+      "title": "MemeZter",
+      "largeImage": "https://github.com/deepeshdm/MemeZter",
+      "smallImage": "img/portfolio/memezter2.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Mumbai, India",
+    "phone": "+918850730893",
+    "email": "deepeshmhatre133@gmail.com",
+    "github": "https://github.com/deepeshdm",
+    "twitter": "https://twitter.com/Deepeshmhatredm",
+    "linkedin": "https://www.linkedin.com/in/deepeshdm/"
+  },
+  "Features": [
+    {
+      "icon": "img/Java_logo.png",
+      "title": "Java",
+      "text": "Java is a high-level, class-based, object-oriented programming language."
+    },
+    {
+      "icon": "img/Python_logo.png",
+      "title": "Python",
+      "text": "Python is an interpreted high-level general-purpose programming language."
+    },
+    {
+      "icon": "img/sql.png",
+      "title": "SQL",
+      "text": "SQL is a domain-specific language used in programming and designed for managing data."
+    },
+    {
+      "icon": "img/Tensorflow_logo.svg.png",
+      "title": "Tensorflow",
+      "text": "TensorFlow is a free and open-source software library for machine learning and artificial intelligence."
+    },
+    {
+      "icon": "img/sklearn logo.png",
+      "title": "Scikit-Learn",
+      "text": "Scikit-learn is a free software machine learning library for the Python language. "
+    },
+    {
+      "icon": "img/pytorch-logo.png",
+      "title": "PyTorch",
+      "text": "PyTorch is an open source machine learning library based on the Torch library for Python language."
+    },
+    {
+      "icon": "img/opencv logo.png",
+      "title": "OpenCV",
+      "text": "OpenCV is a library of programming functions mainly aimed at real-time computer vision."
+    },
+    {
+      "icon": "img/Hadoop logo.jpg",
+      "title": "Hadoop",
+      "text": "PySpark is an interface for Apache Spark in Python.Apache Spark is an open-source unified analytics engine for large-scale data processing. "
+    },
+    {
+      "icon": "img/aws logo.png",
+      "title": "AWS",
+      "text": "Amazon Web Services, Inc. is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs."
+    },
+    {
+      "icon": "img/docker logo.png",
+      "title": "Docker",
+      "text": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers."
+    },
+    
+    {
+      "icon": "https://clipground.com/images/tableau-logo-png-2.png",
+      "title": "Tableau",
+      "text": "Tableau Software is an American interactive data visualization software company focused on business intelligence."
+    },
+    {
+      "icon": "img/git logo.png",
+      "title": "GIT",
+      "text": "Git is software for tracking changes in any set of files, created by Linus Torvalds. "
+    }
+  ]
+}
